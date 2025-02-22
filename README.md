@@ -3,7 +3,7 @@
 Welcome to my **personal portfolio website**! 🚀 This website showcases my **skills,blogs, projects, and services** in **web development, content writing, digital marketing, and more**. Built using **HTML, CSS, and JavaScript**, it is designed to be **interactive, responsive, and visually appealing**.  
 
 ## 🌍 Live Demo  
-🔗 [Visit My Portfolio]( https://github.com/aksheyrajput/portfolio-website.git)  
+🔗 [Visit My Portfolio]( https://github.com/aksheyrajput/portfolio.git)  
 
 ## 🎨 Features  
 ✅ Fully **responsive** design (mobile-friendly)  
